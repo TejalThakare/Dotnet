@@ -1,0 +1,16 @@
+@page
+@using HR;
+
+@{
+    product p1=new product();
+    p1.id=1;
+    p1.Name="Rose";
+    p1.Quantity=10;
+}
+
+<h1>Product</h1>
+<hr>
+<p>ID:@p1.id</p>
+<p>Name:@p1.Name</p>
+<p>Quantity:@p1.Quantity</p>
+<button>Add To Cart</button>
