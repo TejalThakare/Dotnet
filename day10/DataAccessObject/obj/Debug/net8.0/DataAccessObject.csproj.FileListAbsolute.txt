@@ -1,0 +1,16 @@
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\obj\Debug\net8.0\DataAccessObject.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\obj\Debug\net8.0\DataAccessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\obj\Debug\net8.0\DataAccessObject.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\obj\Debug\net8.0\DataAccessObject.AssemblyInfo.cs
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\obj\Debug\net8.0\DataAccessObject.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\obj\Debug\net8.0\DataAccessObject.sourcelink.json
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\bin\Debug\net8.0\DataAccessObject.deps.json
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\bin\Debug\net8.0\DataAccessObject.dll
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\bin\Debug\net8.0\DataAccessObject.pdb
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\bin\Debug\net8.0\BusinessObjectLayer.dll
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\bin\Debug\net8.0\BusinessObjectLayer.pdb
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\obj\Debug\net8.0\DataAccessObject.csproj.CopyComplete
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\obj\Debug\net8.0\DataAccessObject.dll
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\obj\Debug\net8.0\refint\DataAccessObject.dll
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\obj\Debug\net8.0\DataAccessObject.pdb
+C:\Users\IET\Desktop\dotnet\day10\DataAccessObject\obj\Debug\net8.0\ref\DataAccessObject.dll

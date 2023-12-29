@@ -1,0 +1,16 @@
+﻿@using BusinessObjectLayer;
+@using System.Collections.Generic;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    @{
+        List<Product> allProducts=(List<Product>)this.ViewData["allProducts"];
+        foreach( Product p in allProducts){
+            <p> @p.Id @p.Name @p.Description</p>
+    }
+    }
+</div>
