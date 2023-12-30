@@ -1,8 +1,0 @@
-C:\Users\IET\Desktop\dotnet\NewProj\NewProject\obj\Debug\net8.0\NewProject.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\IET\Desktop\dotnet\NewProj\NewProject\obj\Debug\net8.0\NewProject.AssemblyInfoInputs.cache
-C:\Users\IET\Desktop\dotnet\NewProj\NewProject\obj\Debug\net8.0\NewProject.AssemblyInfo.cs
-C:\Users\IET\Desktop\dotnet\NewProj\NewProject\obj\Debug\net8.0\NewProject.csproj.CoreCompileInputs.cache
-C:\Users\IET\Desktop\dotnet\NewProj\NewProject\obj\Debug\net8.0\NewProject.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\IET\Desktop\dotnet\NewProj\NewProject\obj\Debug\net8.0\NewProject.RazorAssemblyInfo.cache
-C:\Users\IET\Desktop\dotnet\NewProj\NewProject\obj\Debug\net8.0\NewProject.RazorAssemblyInfo.cs
-C:\Users\IET\Desktop\dotnet\NewProj\NewProject\obj\Debug\net8.0\NewProject.sourcelink.json

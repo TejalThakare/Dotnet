@@ -1,0 +1,13 @@
+@using BOL;
+@using DAL;
+
+
+
+
+@{
+        List<Student> L1=(List<Student>)this.ViewData["Student"];
+        foreach( Student s in L1){
+            <p> @s.Id  @s.Name  @s.Marks</p>
+        }
+   }
+</div>

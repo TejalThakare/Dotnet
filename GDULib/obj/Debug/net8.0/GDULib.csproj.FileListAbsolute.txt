@@ -1,5 +1,0 @@
-C:\Users\IET\Desktop\dotnet\GDULib\obj\Debug\net8.0\GDULib.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\IET\Desktop\dotnet\GDULib\obj\Debug\net8.0\GDULib.AssemblyInfoInputs.cache
-C:\Users\IET\Desktop\dotnet\GDULib\obj\Debug\net8.0\GDULib.AssemblyInfo.cs
-C:\Users\IET\Desktop\dotnet\GDULib\obj\Debug\net8.0\GDULib.csproj.CoreCompileInputs.cache
-C:\Users\IET\Desktop\dotnet\GDULib\obj\Debug\net8.0\GDULib.sourcelink.json
