@@ -1,0 +1,14 @@
+@using Emp;
+@{
+    Employee e1=ViewData["Employee"] as Employee;
+}
+
+<div class="text-center">
+    @{
+        <p>Id:@e1.Id</p>
+        <p>Name:@e1.Name</p>
+        <p>Role:@e1.Role</p>
+        <p>Salary:@e1.Salary</p>
+
+    }
+</div>

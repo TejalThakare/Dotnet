@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\IET\\Desktop\\dotnet\\day10\\Program1\\Program1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectName": "BusinessLogicLayer",
+        "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessLogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessObjectLayer\\BusinessObjectLayer.csproj"
+              },
+              "C:\\Users\\IET\\Desktop\\dotnet\\day10\\DataAccessObject\\DataAccessObject.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\DataAccessObject\\DataAccessObject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+        "projectName": "BusinessObjectLayer",
+        "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessObjectLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IET\\Desktop\\dotnet\\day10\\DataAccessObject\\DataAccessObject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\DataAccessObject\\DataAccessObject.csproj",
+        "projectName": "DataAccessObject",
+        "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\DataAccessObject\\DataAccessObject.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\DataAccessObject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessObjectLayer\\BusinessObjectLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IET\\Desktop\\dotnet\\day10\\Program1\\Program1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\Program1\\Program1.csproj",
+        "projectName": "Program1",
+        "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\Program1\\Program1.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\Program1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              },
+              "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\BusinessObjectLayer\\BusinessObjectLayer.csproj"
+              },
+              "C:\\Users\\IET\\Desktop\\dotnet\\day10\\DataAccessObject\\DataAccessObject.csproj": {
+                "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\day10\\DataAccessObject\\DataAccessObject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

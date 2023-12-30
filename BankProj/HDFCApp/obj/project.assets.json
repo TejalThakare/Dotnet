@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "banking/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/banking.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/banking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "banking/1.0.0": {
+      "type": "project",
+      "path": "../banking/banking.csproj",
+      "msbuildProject": "../banking/banking.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "banking >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\IET\\Desktop\\dotnet\\BankProj\\HDFCApp\\HDFCApp.csproj",
+      "projectName": "HDFCApp",
+      "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\BankProj\\HDFCApp\\HDFCApp.csproj",
+      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IET\\Desktop\\dotnet\\BankProj\\HDFCApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\IET\\Desktop\\dotnet\\BankProj\\banking\\banking.csproj": {
+              "projectPath": "C:\\Users\\IET\\Desktop\\dotnet\\BankProj\\banking\\banking.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

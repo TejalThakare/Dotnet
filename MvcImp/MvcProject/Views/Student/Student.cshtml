@@ -1,0 +1,13 @@
+@using std;
+
+@{
+    Student s1=ViewData["Student"] as Student;
+}
+
+<div>
+@{  
+    <p>Id:@s1.Id</p>
+    <p>Name:@s1.Name</p>
+    <p>Marks:@s1.Marks</p>
+    }
+</div>

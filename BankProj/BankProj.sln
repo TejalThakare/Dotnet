@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "banking", "banking\banking.csproj", "{AF02A282-C0D0-42CB-92DA-70B90D4A7AEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDFCApp", "HDFCApp\HDFCApp.csproj", "{6B32E3E4-CC0C-4834-B4E4-9E6C39870040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF02A282-C0D0-42CB-92DA-70B90D4A7AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF02A282-C0D0-42CB-92DA-70B90D4A7AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF02A282-C0D0-42CB-92DA-70B90D4A7AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF02A282-C0D0-42CB-92DA-70B90D4A7AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B32E3E4-CC0C-4834-B4E4-9E6C39870040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B32E3E4-CC0C-4834-B4E4-9E6C39870040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B32E3E4-CC0C-4834-B4E4-9E6C39870040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B32E3E4-CC0C-4834-B4E4-9E6C39870040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
