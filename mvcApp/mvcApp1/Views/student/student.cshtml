@@ -1,0 +1,20 @@
+@using BOL;
+@using DAL;
+
+@{
+    List<student> L1=ViewData["student"] as List<student>;
+}
+<div>
+
+@{
+    foreach(student s in L1){
+        <p>Id:@s.Id</p>
+        <p>Name:@s.NameFirst</p>
+        <p>LastName:@s.NameLast</p>
+        <p>Data Of Birth:@s.Dob</p>
+        <p>EmailId:@s.EmailId</p>
+        <hr>
+    }
+}
+</div>
+
